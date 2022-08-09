@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JackieZhai/JackieZhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Google Scholar Link](https://img.shields.io/badge/Google_Scholar-Hao_Zhai-lightgray?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=1fcT9g8AAAAJ)
+[![ORCiD Link](https://img.shields.io/badge/ORCiD-0000--0003--4149--3131-lightgray?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-4149-3131)
+[![GitHub Followers](https://img.shields.io/github/followers/JackieZhai?color=lightgray&logo=GitHub&style=for-the-badge)](https://github.com/JackieZhai?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/JackieZhai?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&color=lightgray&logo=GitHub&style=for-the-badge)](https://github.com/JackieZhai?tab=repositories)
