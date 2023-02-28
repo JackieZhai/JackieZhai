@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 [![ORCiD Link](https://img.shields.io/badge/ORCiD-0000--0003--4149--3131-lightgray?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0003-4149-3131)
 [![GitHub Followers](https://img.shields.io/github/followers/JackieZhai?color=lightgray&logo=GitHub&style=for-the-badge)](https://github.com/JackieZhai?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/JackieZhai?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&color=lightgray&logo=GitHub&style=for-the-badge)](https://github.com/JackieZhai?tab=repositories)
+
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=JackieZhai&show_icons=true&theme=transparent&hide_rank=true&hide_title=true)
+![GitHub Readme Toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackieZhai&layout=compact&theme=transparent&title_color=5b7f87)
